@@ -1,0 +1,12 @@
+.vjs-speed-select {
+    background: inherit;
+    line-height: inherit;
+    height: inherit;
+    color: inherit;
+    border: none;
+}
+.vjs-speed-select option {
+    background: #2B333F;
+    background-color: rgba(43, 51, 63, 0.7);
+    color: white;
+}
