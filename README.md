@@ -18,7 +18,8 @@ In your web page:
        controls>
 </video>
 <script src="video.js"></script>
-<script src="dist/videojs.speed-control.min.js"></script>
+<script src="dist/videojs.speed-control.js"></script>
+<link rel="stylesheet" href="dist/videojs.speed-control.css" />
 <script>
 videojs('video', {}, function() {
   var player = this;
