@@ -34,7 +34,6 @@
         var props = {
             className: 'vjs-speed-control vjs-control',
             innerHTML: buildSpeeds(),
-            
             tabIndex: 0
         };
 
