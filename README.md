@@ -1,3 +1,6 @@
+# Changelog
+2018-09-04 fix bug and support videojs v7.0.3
+
 # Speed control
 
 Control playback speed
@@ -19,7 +22,7 @@ In your web page:
 <script>
 videojs('video', {}, function() {
   var player = this;
-  player.speed-control(); // initialize the plugin
+  player.speedControl();; // initialize the plugin
 });
 </script>
 ```
